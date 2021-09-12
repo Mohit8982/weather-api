@@ -58,7 +58,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Mohit Barua - [@linkedIn](https://www.linkedin.com/in/mohit-barua-a46873b4/) 
 
-Project Link: [Moive Database](https://github.com/Mohit8982/weather-api.git)
+Project Link: [Weather Forcasr](https://github.com/Mohit8982/weather-api.git)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
