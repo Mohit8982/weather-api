@@ -1,0 +1,67 @@
+{
+	"info": {
+		"_postman_id": "504a7689-7311-499d-a441-7b5ca0673a8a",
+		"name": "Weather API",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Old Details",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"cityId\" : \"1269743\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:3000/weather/get-old-weather-details",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"weather",
+						"get-old-weather-details"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Add City",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"city_name\" : \"indore\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:3000/cities/add-city",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"cities",
+						"add-city"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
