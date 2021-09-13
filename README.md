@@ -44,7 +44,18 @@ importing the postman collection to explore API.
 
 _For more examples, please import the postman collection [COLLECTION](https://github.com/Mohit8982/weather-api/tree/main/postman)_
 
+<!-- USAGE EXAMPLES -->
+## Future Implementation
 
+There are many things we can implement by using this weather API like :
+  
+  1. Making Graph For Weather Up & Down According to City Selected.
+  2. Making a Interactie Frontend According to weather for ex. if it's raining then we can have some rain effect as background.
+  3. Using Historical Weather data we can make prediction using ML or any other tool.
+  4. Can make things Dynamic accoding to user location.
+  5. Implement Some realtime feature.
+  
+ There are many more cool thing we can implement using this API's
 
 <!-- LICENSE -->
 ## License
